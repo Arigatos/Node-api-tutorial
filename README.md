@@ -1,4 +1,4 @@
-# Node-api-CRUD
+# Node-api tutorial
 First node restfull api CRUD
 
 ## Install node modules
